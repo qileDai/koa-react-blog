@@ -1,0 +1,18 @@
+.btn_edit {
+  margin-top: 15px;
+}
+.baseView {
+  display: flex;
+  justify-content: start;
+}
+.baseView .form {
+  width: 50%;
+  min-width: 300px;
+}
+.baseView .userImage {
+  margin-left: 80px;
+}
+.baseView .userImage .uplod {
+  display: block;
+  margin-top: 15px;
+}

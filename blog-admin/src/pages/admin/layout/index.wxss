@@ -1,0 +1,48 @@
+.trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color .3s;
+}
+.trigger:hover {
+  color: #1890ff;
+}
+.logoMax {
+  height: 32px;
+  margin: 16px;
+  border-radius: 4px;
+  background: url('../../../assets/img/nlogo.png') no-repeat center;
+}
+.logoMin {
+  height: 32px;
+  margin: 16px;
+  border-radius: 4px;
+  background: url('../../../assets/img/min.jpg') no-repeat center;
+}
+.wrap-content {
+  height: calc(36vh);
+  overflow: auto;
+}
+.content {
+  background: #fff;
+  padding: 20px;
+  margin: 16px;
+}
+.user {
+  padding: 0 24px;
+  float: right;
+}
+:global .ant-menu-item-selected {
+  background: none !important;
+}
+.altem_active {
+  color: white;
+  background-color: #1890ff !important;
+}
+.altem_active .anticon-setting {
+  color: white;
+}
+.altem_active span {
+  color: white;
+}

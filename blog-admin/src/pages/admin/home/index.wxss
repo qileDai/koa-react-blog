@@ -1,0 +1,5 @@
+.main .groud_card {
+  margin: 20px;
+  padding: 20px;
+  background: #ececec;
+}

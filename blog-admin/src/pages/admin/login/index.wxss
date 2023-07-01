@@ -1,0 +1,15 @@
+.login {
+  width: 99vw;
+  height: 99vh;
+  position: relative;
+}
+.login-form {
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%);
+}
+.baseView {
+  display: flex;
+  justify-content: start;
+}

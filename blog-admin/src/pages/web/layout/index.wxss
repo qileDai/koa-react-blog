@@ -1,0 +1,17 @@
+.wrapper {
+  height: 100%;
+}
+.wrapper-container {
+  height: 100%;
+  margin-top: 64px;
+}
+.wrapper-content {
+  height: 100%;
+}
+.ant-back-top {
+  bottom: 40px;
+  right: 20px;
+}
+.wrapper-content::-webkit-scrollbar {
+  display: none;
+}

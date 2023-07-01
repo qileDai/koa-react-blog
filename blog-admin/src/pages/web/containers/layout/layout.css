@@ -1,0 +1,13 @@
+.wrapper {
+  height: 100%;
+}
+.wrapper-container {
+  height: 100%;
+  margin-top: 100px !important;
+}
+.wrapper-content {
+  height: 100%;
+}
+.wrapper-content::-webkit-scrollbar {
+  display: none;
+}
